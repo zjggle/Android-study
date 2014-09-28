@@ -1,6 +1,8 @@
-Android-study
+## Android Study log
 =============
 
+``````java
 
+System.out.println("hello world");
 
-www
+``````
